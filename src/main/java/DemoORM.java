@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class DemoORM {
+public class DemoORM {
+    public static void main(String[] args) {
+
+    }
 }
